@@ -1,0 +1,185 @@
+
+/* Main */
+
+html,body,input,textarea,select
+{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	color: #222;
+	font-size: 11.5pt;
+	line-height: 2em;
+}
+
+html
+{
+	background-image: url("../img/bg-main.png");
+	background-repeat: repeat;
+	background-color: #fff;
+}
+
+#main-container
+{
+	position: relative;
+	min-height: 100%;
+}
+
+/* Main */
+
+#main-wrapper-front
+{
+	margin-top: 91px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 940px;
+}
+
+#main-wrapper
+{
+	margin-top: 95px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 800px;
+}
+
+/* Nav */
+
+.nav-menu
+{
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	height: 86px;
+	text-align: center;	
+	font-size: 11.5pt;
+	background-color: #fff;
+	background-image: url("../img/bg-main.png");
+	filter: alpha(opacity=99);
+    opacity: .99;
+}
+
+.nav-menu-scroll
+{
+	box-shadow: rgba(0, 0, 0, 0.28) 0px 1px 2px 0px;
+	background-image: none;
+	background-color: #fff;
+}
+
+#nav-container
+{
+	font-family: 'Roboto Slab', serif;
+}
+
+ul.top-nav
+{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding: 28px 0;
+}
+
+ul.top-nav li
+{
+    display: inline;
+    padding: 5px 40px;
+}
+
+ul.top-nav a
+{
+	text-decoration: none;
+	color: #222;
+}
+
+ul.top-nav a:hover
+{
+	color: #666;
+}
+
+/* Section */
+
+.section
+{
+	text-align: center;
+	padding: 25px 0 50px 0;
+	margin-bottom: 40px;
+	background-color: #fff;
+	box-shadow: rgba(0, 0, 0, 0.28) 0px 1px 2px 0px;
+}
+
+.section-title
+{
+	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
+	color: #222;
+	font-size: 26pt;
+	padding: 45px 0 15px 0;
+}
+
+.section-subtitle
+{
+	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
+	color: #222;
+	font-size: 13pt;
+	padding: 10px 0 10px 0;
+}
+
+.section-text
+{
+	text-align: center;
+	padding: 10px 80px;
+}
+
+.section-img
+{
+	padding: 10px;
+}
+
+.section-separator
+{
+	margin: 30px 15%;
+}
+
+.scale-img
+{
+	width: 90%;
+}
+
+.scale-front-img
+{
+	width: 84%;
+}
+
+/* General */
+
+a
+{
+	color: #276696;
+}
+
+/* Mobile */
+
+@media screen and (max-width: 720px) {
+
+#main-wrapper-front, #main-wrapper
+{
+	margin-top: 0;
+}
+
+.nav-menu
+{
+	position: relative;
+}
+
+ul.top-nav li
+{
+    display: inline;
+    padding: 5px 15px;
+}
+
+.section-text
+{
+	padding: 10px 20px;
+}
+
+}

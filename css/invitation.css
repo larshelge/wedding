@@ -1,0 +1,107 @@
+
+/* Main */
+
+html,body,input,textarea,select
+{
+	font-family: 'Muli', sans-serif;
+	font-weight: 400;
+	color: #222;
+	font-size: 12pt;
+	line-height: 2em;
+}
+
+html
+{
+	background-image: url("../img/bg-main.png");
+	background-repeat: repeat;
+	background-color: #fff;
+}
+
+#main-container
+{
+	position: relative;
+	min-height: 100%;
+}
+
+#main-wrapper
+{
+	margin: 65px auto;
+	max-width: 920px;
+	background-color: #fff;
+}
+
+/* Section */
+
+.section
+{
+	text-align: center;
+	padding: 40px 10% 50px 10%;
+	margin-bottom: 30px;
+	background-color: #fff;
+	box-shadow: rgba(0, 0, 0, 0.3) 0px 1px 3px 0px;
+	border-radius: 5px;
+}
+
+.section-title
+{
+	font-family: 'Alex Brush', serif;
+	font-weight: 400;
+	color: #222;
+	font-size: 36pt;
+	padding: 30px 0 20px 0;
+	line-height: 2em;
+	line-height: 1.4em;
+}
+
+.section-subtitle
+{
+	font-weight: 400;
+	color: #222;
+	font-size: 13pt;
+	padding: 20px 0 5px 0;
+}
+
+.section-text
+{
+	text-align: center;
+	padding: 10px 10%;
+}
+
+/* Div */
+
+.blue-button
+{
+	padding: 15px 20px;
+	border-radius: 3px;
+	color: #fff;
+	background-color: #6098C0;
+}
+
+.blue-button:hover
+{
+	background-color: #4F8AB5;
+}
+
+/* General */
+
+a
+{
+	color: #276696;
+	text-decoration: none;
+}
+
+/* Mobile */
+
+@media screen and (max-width: 720px) {
+
+.section
+{
+    padding: 40px 1% 50px 1%;
+}
+
+.section-text
+{	
+	padding: 10px 4%;
+}
+
+}
