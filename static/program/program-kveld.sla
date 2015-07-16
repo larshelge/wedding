@@ -27,7 +27,7 @@
             <Fonts Name="PT Serif Italic"/>
             <Fonts Name="Scriptina Regular"/>
             <Fonts Name="PT Serif Regular"/>
-            <Fonts Name="PT Serif Bold"/>
+            <Fonts Name="PT Serif Bold Italic"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -134,29 +134,29 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="140.22" YPOS="1370" WIDTH="160" HEIGHT="473" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 473 160 473 160 473 160 473 0 473 0 473 0 473 0 473 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 473 160 473 160 473 160 473 0 473 0 473 0 473 0 473 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="André"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="André"/>
             <para LINESPMode="1" LINESP="13"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="IT-mann med stor kunnskap om data og sånn. Henter i barnehagen og har imponerende godt håndlag med unger. Pendler til Ørebro i rask bil der Lina bor. Trives best på hytta i Fjällbacka og i båt i den svenske skjærgården. Ivrig spiller av kubb og andre hagespill. Kjernekar som alltid er i godt humør. Samboer med Lina. "/>
             <para LINESPMode="1" LINESP="13"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Anneli"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Anneli"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Fra Kløfa, er sykepleier og akkurat ferdig med master. Anneli er sjarmerende distré, eller glemsk som det også heter. Hun har sterk fobi mot slanger og andre krypdyr. Anneli har veldig lange bein og er i følge sin samboer Phillip ikke like blond som hun ser ut."/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Cecilia"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Cecilia"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Jobber til daglig på Preem sitt raffineri i Lysekil. Cecilia er alltid meget omtenksom, tar hånd om familien og hjelper Marie med alt fra stall og hest til mat og klær. Hardt arbeidende og liker å reise på semester i Norge. Cecilia er også opptatt av at Lars får i seg nok mat til rett tid. Mor til Marie. "/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Christopher"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Christopher"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Kompis av Lars fra høyskole og fotball. Fra Kristiansund, bor nå utenfor Oslo.  Tidligere band-gitarist, sjarmør og fotballspiller på høyt nivå. Jobber i dag som prosjektleder innen IT. Har god kondis og flat mage. Glad i musikk, spesielt deLillos. Usedvanlig kombinasjon av rockestjerne, fotballspiller og prosjektleder i én og samme person."/>
             <para LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="318.47" YPOS="1370" WIDTH="160.5" HEIGHT="473" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 160.5 0 160.5 0 160.5 0 160.5 0 160.5 473 160.5 473 160.5 473 160.5 473 0 473 0 473 0 473 0 473 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 160.5 0 160.5 0 160.5 0 160.5 0 160.5 473 160.5 473 160.5 473 160.5 473 0 473 0 473 0 473 0 473 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Gustav"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Gustav"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Samboer med Sanna."/>
             <para LINESPMode="1"/>
@@ -165,107 +165,107 @@
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Ingemar"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Ingemar"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Morsom og allsidig kar som holder orden på kirken på Malmön og områdene rundt. Lidenskapelig jeger som nedlegger rådyr og villsvin som senere blir til utsøkte middager over grillen. Stor fan av Bjørn Afzelius. Flink til å instruere Lars i gjøremål på gården ned til minste detalj, og er dyktig på å forklare hva han har utrettet i løpet av dagen. Far til Marie. "/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Jan Henrik"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Jan Henrik"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Dyktig programmerer som jobber sammen med Lars. Tidligere fotballspiller på høyt nivå, nå iherdig Barcelona-supporter. Glad i øl og hamburger, og reiser mye rundt i verden med sin kone. Tendens til å dra på seg uvanlige skader og gjorde derfor rett i å gifte seg med en sykepleier. Jan Henrik er født fem minutter for sent, noe som gir seg utslag selv i dag. Bror til Lars. "/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Kristina"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Kristina"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Kicki er Maries gode venninne fra barndommen. Denne sporty Hamburgsunds-tjej kunne ri før hun kunne gå og har ridd utallige timer sammen med Marie. Sammen har de kjempet i lagkonkurranser og både foran og bak barene i Kungshamn. Å holde rede på Marie i Smögens lyse morgentimer gjorde yrkesvalget som polis til en selvfølgelighet."/>
             <trail LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="559.75" YPOS="1342" WIDTH="160" HEIGHT="482" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 482 160 482 160 482 160 482 0 482 0 482 0 482 0 482 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 482 160 482 160 482 160 482 0 482 0 482 0 482 0 482 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Kristin Oppegård"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Kristin LO"/>
             <para LINESPMode="1"/>
             <ITEXT FONTSIZE="8" CH="Venninne av Marie fra Veterinær-høyskolen. Gift med Martin. Denne framgangsrike og drevne jenta fra Maura har alltid minst fem baller i luften. Kristin driver sin egen veterinærklinikk og er lidenskapelig opptatt av hester og andre, mindre dyr. Meget habil sangerinne med flere TV-opptredener bak seg. "/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Kristin Fjermeros"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Kristin F"/>
             <para LINESPMode="1"/>
             <ITEXT FONTSIZE="8" CH="Kristin er sykepleier og jobber nå med helse og data-systemer. Fra Grimstad, Sørlandets ubestridte perle. Kristin er omtenksom, morsom og har ofte en ironisk kommentar på lager. Glad i å reise rundt og utforske verden. Liker seg aller best på Sørlandet og har ikke gitt opp å få Jan Henrik til å bli sørlending. Gift med Jan Henrik."/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Lina"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Lina"/>
             <para LINESPMode="1"/>
             <ITEXT FONTSIZE="8" CH="Venninne av Marie fra Veterinærhøyskolen."/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Linus"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Linus"/>
             <para LINESPMode="1"/>
             <ITEXT FONTSIZE="8" CH="Linus er skipskaptein og jobber på båter i Nordsjøen der han frakter det norske gullet til lands. Meget allsidig mann med interesse for båtliv og fiske. Er i god form da han stadig bedriver løping, sykling, tennis og alpint. Mannen har stort konkurranseinstinkt og tendens til å vinne det han stiller opp i. Bor på Smögen og har rask båt. Samboer med Therese."/>
             <trail LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="738.75" YPOS="1342" WIDTH="160" HEIGHT="482" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 482 160 482 160 482 160 482 0 482 0 482 0 482 0 482 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 482 160 482 160 482 160 482 0 482 0 482 0 482 0 482 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Lisa"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Lisa"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Lisa er veterinær og jobber ved universitetet i Uppsala. Hun har stor interesse for sine to hunder. Lisa er blid, lugn og filosofisk anlagt."/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Markus"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Markus"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Kompis av Lars fra høyskolen i Oslo. Markus er en smart kar fra Otta i Gudbrandsdalen med stor interesse for friluftsliv og oppfinnelser. Var alltid hjelpsom når Lars trengte et hint eller to under studiene. Levde kun på frossen-pizza under studiene men holdt en god figur likevel. Markus jobber nå sammen med Lars. Gift med Velaug. "/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Martin Johansson"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Martin J"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Omgjengelig, sosial og umulig å ikke like. Robust politimann som håndtererer alt fra bråkete fotball-pøbler til folk med tung gasspedal på motorveien. Kan gi rabatter på bøter til kjentfolk. Martin er pilot og en utmerket fly-instruktør for Lars, som har hatt glede av mange flyturer i luftrommet over Västra Götaland. Martins store interesser forøvrig er hund, hockey og sim samboer Kickis kroppsdeler."/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Martin Nyhus"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Martin N"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Kreativ, tiltaksrik og hardtarbeidende ung mann med mange jern i ilden. Martin er i entreprenør-bransjen og setter opp imponerende byggverk hjemme på gården på Maura. Martin er god på å arrangere fester og vi har hatt gleden av mange fine kvelder sammen med Kristin og Martin. "/>
             <trail LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="140.22" YPOS="1977.28" WIDTH="160" HEIGHT="482" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 482 160 482 160 482 160 482 0 482 0 482 0 482 0 482 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 482 160 482 160 482 160 482 0 482 0 482 0 482 0 482 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Nina"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Nina"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Nina har jobbet i skoleverket i mange år og har nylig trådt over i pensjonistenes rekker. Hun er omgjengelig og blid og er stadig i sosiale treff med sine gamle venninner fra Kristiansund. Arbeidsleder med evne til å delegere oppgaver i hjemmet. Flink til å ringe, SMSe og emaile sine to sønner for å høre hvordan det går. Mor til Lars."/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Per"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Per"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Per har hatt en lang karriere som sivilingeniør. Glad i gå på tur og lærte Lars tidlig å gå på ski, sykle og løpe i marka. Selv-lært snekker og bruker mye tid på utbedringer på hytta i Østfold. Liker å prate svensk og legger straks over når han krysser grensen. Glad i se på TV samt forklare hvorfor ingen politikere vet hva de prater om. Far til Lars."/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Phillip"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Phillip"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Best man og kompis av Lars. Han er økonom med et stort antall mastergrader og forvalter enorme mengder valuta hver dag. Phillip er livsnyter og flink til å arrangere utflukter blant annet til Lofoten. Han har en svakhet for økonomiske teorier og ender ofte opp i dype diskusjoner med Lars over en eller flere øl."/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Sanna"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Sanna"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Møtte Marie da de jobbet hos distriktsveterniärene og de har vært venninner siden."/>
             <para LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="319.22" YPOS="1977.28" WIDTH="160" HEIGHT="482" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 482 160 482 160 482 160 482 0 482 0 482 0 482 0 482 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 160 0 160 0 160 0 160 0 160 482 160 482 160 482 160 482 0 482 0 482 0 482 0 482 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Sigbjørn"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Sigbjørn"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Kompis av Lars fra gamle dager. Sigbjørn er trener og leder innen fotball og kjent som en stor inspirator og lagbygger. Vært sammen med Lars på flere legendariske turer til sør-Europa. Meget habil gitarist og skaper jevnlig stor stemning på lokale barscener. Sigbjørn er en kjernekar og alltid positiv. Til stor fortvilelse for oss i Oslo flyttet Sigbjørn til Lofoten der han bor sammed med Trine."/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Therese"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Therese"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Meget amisiøs og får en av Nordens største dyreparker til å synes utad. Therese har for tiden mamma-ledig med sine to fine døtre. Therese er omtenksom og hjelper alltid andre når det behøves. Hun er aktiv medlem av syklubben på Smögen der det etter ryktene er mer fokus på vin og snakk enn håndarbeide. Storeøster til Marie og samboer med Linus."/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Trine"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Trine"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Trine er tannlege og bor sammen med Sigbjørn i Lofoten. Hun er familiekjær og glad i å tilbringe kvelder i Lofoton med sin familie. Sammen med Sigbjørn har de Sofia som nå er 4 år. Gift med Sigbjørn."/>
             <para LINESPMode="1"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="9" CH="Velaug"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="9" CH="Velaug"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="PT Serif Regular" FONTSIZE="8" CH="Velaug er livsnyter og sangfugl fra Gubrandsdalen som liker bøker, musikk og fjellturer. Gjennom 12 år i Oslo lærte hun seg å like sushi, kaffe latte og ballett. Har tatt vare på sin indre døl og flyttet i fjor tilbake til landsbygda med Markus og rabagasten Sigurd. Gikk under navnet “Sunshine” i ungdomstiden da hun alltid var blid."/>
             <trail LINESPMode="1"/>
@@ -277,56 +277,56 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="598.03" YPOS="2086.84" WIDTH="142.5" HEIGHT="171.69" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="PT Serif Regular" ISIZE="11" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 142.5 0 142.5 0 142.5 0 142.5 0 142.5 171.69 142.5 171.69 142.5 171.69 142.5 171.69 0 171.69 0 171.69 0 171.69 0 171.69 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 142.5 0 142.5 0 142.5 0 142.5 0 142.5 171.69 142.5 171.69 142.5 171.69 142.5 171.69 0 171.69 0 171.69 0 171.69 0 171.69 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="rar"/>
-            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=": søt, snill"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="rar:"/>
+            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=" søt, snill"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="tøs"/>
-            <ITEXT FONTSIZE="10" CH=": jente"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="tøs:"/>
+            <ITEXT FONTSIZE="10" CH=" jente"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="forsynt"/>
-            <ITEXT FONTSIZE="10" CH=": beskjeden, blyg"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="forsynt:"/>
+            <ITEXT FONTSIZE="10" CH=" beskjeden, blyg"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="rolig"/>
-            <ITEXT FONTSIZE="10" CH=": morsom, festlig"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="rolig:"/>
+            <ITEXT FONTSIZE="10" CH=" morsom, festlig"/>
             <breakline/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="spis"/>
-            <ITEXT FONTSIZE="10" CH=": komfyr"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="spis:"/>
+            <ITEXT FONTSIZE="10" CH=" komfyr"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="anledning"/>
-            <ITEXT FONTSIZE="10" CH=": årsak, grunn"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="anledning:"/>
+            <ITEXT FONTSIZE="10" CH=" årsak, grunn"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="763.03" YPOS="2086.84" WIDTH="117.375" HEIGHT="171.69" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="PT Serif Regular" ISIZE="11" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 117.375 0 117.375 0 117.375 0 117.375 0 117.375 171.69 117.375 171.69 117.375 171.69 117.375 171.69 0 171.69 0 171.69 0 171.69 0 171.69 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 117.375 0 117.375 0 117.375 0 117.375 0 117.375 171.69 117.375 171.69 117.375 171.69 117.375 171.69 0 171.69 0 171.69 0 171.69 0 171.69 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="artig"/>
-            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=": rolig, kul "/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="artig:"/>
+            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=" rolig, kul "/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="pussa"/>
-            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=": putsa"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="pussa:"/>
+            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=" putsa"/>
             <ITEXT FONTSIZE="10" CH=", polera"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="pölse"/>
-            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=": "/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="pölse:"/>
+            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=" "/>
             <ITEXT FONTSIZE="10" CH="korv"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="konstig"/>
-            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=": inte äkta"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="konstig:"/>
+            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=" inte äkta"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="tull"/>
-            <ITEXT FONTSIZE="10" CH=": skämt, skoj"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="tull:"/>
+            <ITEXT FONTSIZE="10" CH=" skämt, skoj"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="pryl"/>
-            <ITEXT FONTSIZE="10" CH=": stryk, spö"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="pryl:"/>
+            <ITEXT FONTSIZE="10" CH=" stryk, spö"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -341,59 +341,59 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="598.03" YPOS="2307.84" WIDTH="142.5" HEIGHT="171.69" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="PT Serif Regular" ISIZE="11" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 142.5 0 142.5 0 142.5 0 142.5 0 142.5 171.69 142.5 171.69 142.5 171.69 142.5 171.69 0 171.69 0 171.69 0 171.69 0 171.69 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 142.5 0 142.5 0 142.5 0 142.5 0 142.5 171.69 142.5 171.69 142.5 171.69 142.5 171.69 0 171.69 0 171.69 0 171.69 0 171.69 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="jajamensan"/>
-            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=": "/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="jajamensan:"/>
+            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=" "/>
             <ITEXT FONTSIZE="10" CH="ja, positivt svar"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="nu kör vi"/>
-            <ITEXT FONTSIZE="10" CH=": kom igjen"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="nu kör vi:"/>
+            <ITEXT FONTSIZE="10" CH=" kom igjen"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="gympadojor"/>
-            <ITEXT FONTSIZE="10" CH=": joggesko"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="gympadojor:"/>
+            <ITEXT FONTSIZE="10" CH=" joggesko"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="hall"/>
-            <ITEXT FONTSIZE="10" CH=": gang"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="hall:"/>
+            <ITEXT FONTSIZE="10" CH=" gang"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="element"/>
-            <ITEXT FONTSIZE="10" CH=": varmeovn"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="element:"/>
+            <ITEXT FONTSIZE="10" CH=" varmeovn"/>
             <breakline/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="spis"/>
-            <ITEXT FONTSIZE="10" CH=": komfyr"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="spis:"/>
+            <ITEXT FONTSIZE="10" CH=" komfyr"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="764.03" YPOS="2307.84" WIDTH="117.375" HEIGHT="171.69" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="PT Serif Regular" ISIZE="11" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 117.375 0 117.375 0 117.375 0 117.375 0 117.375 171.69 117.375 171.69 117.375 171.69 117.375 171.69 0 171.69 0 171.69 0 171.69 0 171.69 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 117.375 0 117.375 0 117.375 0 117.375 0 117.375 171.69 117.375 171.69 117.375 171.69 117.375 171.69 0 171.69 0 171.69 0 171.69 0 171.69 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="bikkje"/>
-            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=": "/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="bikkje:"/>
+            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=" "/>
             <ITEXT FONTSIZE="10" CH="hund"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="haug"/>
-            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=": "/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="haug:"/>
+            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=" "/>
             <ITEXT FONTSIZE="10" CH="kulle"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="trillebår"/>
-            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=": "/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="trillebår:"/>
+            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=" "/>
             <ITEXT FONTSIZE="10" CH="skottkärra"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="bevegelse"/>
-            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=": "/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="bevegelse:"/>
+            <ITEXT FONT="PT Serif Regular" FONTSIZE="10" CH=" "/>
             <ITEXT FONTSIZE="10" CH="rörelse"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="lyspære"/>
-            <ITEXT FONTSIZE="10" CH=": glödlampa"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="lyspære:"/>
+            <ITEXT FONTSIZE="10" CH=" glödlampa"/>
             <para/>
             <para/>
-            <ITEXT FONT="PT Serif Bold" FONTSIZE="10" CH="vifte"/>
-            <ITEXT FONTSIZE="10" CH=": fläkt"/>
+            <ITEXT FONT="PT Serif Bold Italic" FONTSIZE="10" CH="vifte:"/>
+            <ITEXT FONTSIZE="10" CH=" fläkt"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
